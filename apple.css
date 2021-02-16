@@ -1,0 +1,11 @@
+.iphone_main {width:auto; height: 700px; background-image : url(../iphone_12.jpg) ;}
+.iphone_main p {text-align: center;}
+.iphone_main p:nth-child(3) { color: rgb(158, 158, 158); font-weight: 500;}
+
+
+.a_1 { display: flex; justify-content: center; align-items: center;}
+.a_1 a { color:#0071E3; font-size: 20px;}
+.a_1 a:hover {text-decoration: underline;}
+
+.h_1 {font-family: 'sf pro'; font-size: 55px; font-weight: 600;}
+.h_2 {font-family: 'sf pro'; font-size: 30px; font-weight: 400;}

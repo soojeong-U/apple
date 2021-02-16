@@ -1,0 +1,14 @@
+
+        .gnb_wrap { background-color:rgb(0,0,0.8); width:100%; height:44px; display: flex; justify-content: center;}
+        .gnb_menu { width: 1000px; height:100%; display: flex; justify-content: space-between; align-items: center;}
+        .gnb_menu_a { padding: 0 10px; color: rgb(245,245,247); height: 100%; line-height: 44px;}
+        a {text-decoration: none;}
+        .gnb_wrap a:hover {color:white; font-weight:600;}
+
+        .gnb_covid { background-color:#0071E3; height: 44px; text-align: center; display: flex;
+            align-items: center;
+            justify-content: center;}
+        .gnb_covid a { color:#fff;}
+        .gnb_covid a:hover { text-decoration: underline;}
+
+        .gnb_shop { height: 44px; background-color: #f5f5f7; display:flex; justify-content: center; align-items: center;}
